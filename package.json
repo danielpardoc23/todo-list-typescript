@@ -1,0 +1,19 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielpardoc23/todo-list-typescript.git"
+  },
+  "author": "danielpardo@devanddel.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielpardoc23/todo-list-typescript/issues"
+  },
+  "homepage": "https://github.com/danielpardoc23/todo-list-typescript#readme"
+}
